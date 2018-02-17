@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/kfkonrad/bonfishconf
+description = Description of my personal fish configuration including package files
+maintainer = Kevin F. Konrad <kevinkonrad@ymail.com>
