@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/kfkonrad/plugin-bash-it
+maintainer = Kevin F. Konrad <kevinkonrad@ymail.com>
+description = Incomplete fish implementation of bash-it, supports git features
